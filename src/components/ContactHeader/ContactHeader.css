@@ -1,0 +1,24 @@
+
+.Conheader
+{
+    display:flex;
+    justify-content: center;
+
+    font-size: 3ch;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Conheader p
+{
+    font-size: 1.3ch;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.Conheader img
+{
+    display: flex;
+    justify-content: end;
+    width: 500px;
+    height: 700px;
+}
+

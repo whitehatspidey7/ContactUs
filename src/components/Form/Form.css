@@ -1,0 +1,65 @@
+.Buttons
+{
+    display: flex;
+    gap:20px;
+}
+
+.Container
+{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    display:flex;
+    
+}
+
+.Forms
+{
+    padding: 25px;
+    border: 4px solid black;
+    margin: 40px 0px;
+    border-radius: 10px;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width:350px;
+    height: 40px;
+}
+.field
+{   display: flex;
+    flex-direction: column;
+    padding:10px;
+}
+
+.s{
+    padding: 7px 10px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+label
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.output
+{
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+}

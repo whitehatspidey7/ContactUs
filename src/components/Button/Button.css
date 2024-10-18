@@ -1,0 +1,13 @@
+.primary_button
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding:15px 20px;
+    border-radius: 10px;
+    border: 1px none;
+    font-size: large;
+    cursor:pointer;
+}

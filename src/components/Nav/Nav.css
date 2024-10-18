@@ -1,0 +1,28 @@
+
+.Nav-bar
+{
+    display: flex;
+    justify-content:space-between;
+    padding: 5px 25px;
+    border: 2px solid rgb(221, 211, 211);
+    border-radius: 5px;
+    
+}
+
+.Nav-logo
+{
+    
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Nav-bar ul
+{
+   display: flex;
+   justify-content: end;
+   align-items: center; 
+   gap:25px;
+    list-style: none;
+    font-weight:200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
